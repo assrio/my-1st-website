@@ -1,0 +1,7 @@
+# my-1st-website
+basically the code/website for my first ever html/css project. 
+![image](https://user-images.githubusercontent.com/113801471/194675210-49b61d29-713d-433c-a8a8-e108ed619068.png)
+
+Start Date: 9.18.2022
+
+Finish Date: 10.7.2022
