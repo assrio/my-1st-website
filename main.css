@@ -1,0 +1,64 @@
+body {
+    background-color: #02404a;
+}
+
+header {
+    text-align: center;
+
+    top: 0;
+} 
+main {
+    text-align: center; 
+    font-size: 75px;
+    font-family: 'Minecraft';
+    padding-top: 40px;
+padding-right: 550px;
+}
+line {
+    text-align: center;
+    position: sticky; 
+    top: 0;
+}
+
+footer {
+    font-size: 75px;
+    font-family: 'DPComic';
+    text-align: center;
+    padding-left: 225px;
+    padding-top: 20px;
+}   
+
+
+.txtbox {
+    padding: 6px;
+    width: 200px;
+    height: 200px;
+    overflow: scroll;
+    }
+
+.img {
+        padding-left: 650px;
+        padding-top: 45px;
+    }
+
+h1 {
+    padding-top: 300px;
+    font-size: 85px;
+}
+    
+    
+::-webkit-scrollbar {
+width: 8px;
+height: 6px;
+}
+    
+    
+::-webkit-scrollbar-thumb {
+background: rgb(104, 99, 99); 
+border-radius: 3px;
+}
+    
+::-webkit-scrollbar-thumb:hover {
+background: rgb(77, 74, 74);  
+}
+   
